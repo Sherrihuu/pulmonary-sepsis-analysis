@@ -70,7 +70,7 @@ The significant difference in patient counts between the two methods highlights 
 
 ## Length of Stay (LOS) (Using ICD-9 Codes)
 - **Pulmonary Group Mean**: 5.9 days vs. **Non-Pulmonary Group Mean**: 4.6 days
-- **Sepsis Group Mean**: 7.2 days (mean) vs. **Non-Sepsis Group Mean**: 4.7 days
+- **Sepsis Group Mean**: 7.2 days vs. **Non-Sepsis Group Mean**: 4.7 days
 - **Category-Wise LOS** (Using ICD-9 Codes):
   - **Neither**: 4.2 days
   - **Pulmonary Only**: 5.1 days
